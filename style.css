@@ -1,0 +1,14 @@
+body{
+	margin: 0 auto;
+}
+img{
+	width: 330px;
+	height: 400px;
+	
+}
+#imgs{
+	width: 330px;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
